@@ -1,6 +1,6 @@
 ## Welcome To My GitHub Profile<br/>
 
-💻 Identity Access Management| PAM<br/>
+💻 Identity Access Management | PAM<br/>
 🧠 Tech & Cybersecurity Enthusiast<br/>
 ✌️ Feel free to visit my Linkedin Profile! [Linkedin](https://www.linkedin.com/in/emirsyahmi/)<br/>
 
