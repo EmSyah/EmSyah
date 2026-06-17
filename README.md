@@ -1,6 +1,6 @@
 ## Welcome To My GitHub Profile<br/>
 
-🎓 Graduated from UniMAP with B.Eng. (Hons.), Computer Engineering<br/>
+💻 Identity Access Management|PAM
 🧠 Tech & Cybersecurity Enthusiast<br/>
 ✌️ Feel free to visit my Linkedin Profile! [Linkedin](https://www.linkedin.com/in/emirsyahmi/)<br/>
 
